@@ -38,18 +38,7 @@ part-2-cnn-computer-vision/
     └── sample_images.png            ← 4 sample images × 4 classes grid
 ```
 
----
 
-## How to Run
-
-```bash
-pip install tensorflow pillow scikit-learn matplotlib seaborn numpy pandas
-python notebook.py
-```
-
-All result images are saved automatically to `results/` and `sample_predictions/`. No GPU is required; the script runs on CPU in a few minutes.
-
----
 
 ## Tasks Covered
 
